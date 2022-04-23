@@ -140,6 +140,10 @@ button {
 }
 
 @media (max-width:800px) {
+    .logo {
+        font-size: 25px;
+    }
+    
     .loginBox {
         display: flex;
         flex-direction: column;
